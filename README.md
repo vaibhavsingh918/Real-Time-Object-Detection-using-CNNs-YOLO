@@ -53,7 +53,7 @@ Extracting the frame from the camera and performing the detection.
 ----------->
 FPS is calculated and everything is visualized and displayed on the screen.
 
-CPU vs GPU
+CPU vs GPU :-
 Advantages in CPU - it’s really easy to set up and it works right away on Opencv without doing any further installations. We only need Opencv 3.4.2 or greater.
 Challenges in CPU - Very Slow in detecting frames in the video
 To overcome speed . . .
